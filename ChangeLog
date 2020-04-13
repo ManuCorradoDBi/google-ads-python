@@ -1,3 +1,7 @@
+* 5.0.3
+- Fix retrieval of customer_id from CustomerService.GetCustomer request
+objects.
+
 * 5.0.2
 - Remove response error caching in streaming interceptors.
 
